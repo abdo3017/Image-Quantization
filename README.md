@@ -5,4 +5,4 @@ The idea of color quantization is to reduce the number of colors in a full resol
 kruskal algorithm\
 graphs algorithm (DFS)
 ### Example
-!Image-Quantization](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVnOelQpDen-S3rT6TMS0RXTzU3FAnNIidmpSNzp71_cMZhAoh&usqp=CAU)
+!Image-Quantization](https://github.com/abdo3017/Image-Quantization/blob/master/ImageQuantization/1.PNG)
